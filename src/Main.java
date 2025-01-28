@@ -6,5 +6,6 @@ public class Main {
         System.out.println("4 commit");
 
         System.out.println("new contacts");
+        System.out.println("new life");
     }
 }
